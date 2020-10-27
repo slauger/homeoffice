@@ -21,7 +21,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [Elgato Wave 3](https://www.elgato.com/de/wave-3)
 - [Elgato Wave Shock Mount](https://www.elgato.com/de/wave-shock-mount)
-- [Elgato Pop Filter](https://www.elgato.com/de/wave-pop-filter)
+- [Elgato Wave Pop Filter](https://www.elgato.com/de/wave-pop-filter)
 - [Rode PSA1 Mount](https://de.rode.com/accessories/psa1)
 
 ## Headset
