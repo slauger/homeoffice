@@ -36,7 +36,8 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Lights
 
 - [Elgato Key Light](https://www.elgato.com/de/gaming/key-light)
-- [Shelly Duo GU10](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)
+- [IKEA Tertial](https://www.ikea.com/de/de/p/tertial-arbeitsleuchte-dunkelgrau-50355395/)
+- [Shelly Duo](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)
 - [Shelly RGBW2](https://shelly.cloud/products/shelly-rgbw2-smart-home-automation-led-controller/)
 
 ## Green Screen
