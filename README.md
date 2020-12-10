@@ -14,6 +14,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 - [Kugelkopf](https://www.amazon.de/gp/product/B07PJ2NFX1/)
 - [Elgato Master Mount](https://www.elgato.com/de/master-mount)
 - [Elgato Flex Arm](https://www.elgato.com/de/flex-arm)
+- [Elgato Phone Grip](https://www.elgato.com/de/phone-grip)
 
 ## Capture Card
 
