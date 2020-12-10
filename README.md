@@ -32,6 +32,12 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [Apple Airpods](https://www.apple.com/de/shop/product/MV7N2ZM/A/airpods-mit-ladecase)
 - [Bose QuietComfort 35 II](https://www.bose.de/de_de/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black)
+- [Beyerdynamic DT 990 PRO](https://www.amazon.de/beyerdynamic-Over-Ear-Studiokopfh%C3%B6rer-schwarz-Bauweise-kabelgebunden/dp/B0011UB9CQ/)
+
+## Audio
+
+- [FiiO E10K Olympus 2 Headphone amplifier](https://www.amazon.de/FiiO-E10K-Olympus-Digital-Kopfh%C3%B6rerverst%C3%A4rker-schwarz/dp/B00LP3AMC2/)
+- [Pepperdecks DJOCLATE Mixer](https://www.conrad.de/de/p/pepperdecks-djoclate-2-kanal-dj-mixer-1396909.html)
 
 ## Lights
 
