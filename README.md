@@ -60,7 +60,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 ## Stream Deck
 
-- [Elgato Stream Deck](https://www.elgato.com/de/gaming/stream-deck-xl)
+- [Elgato Stream Deck](https://www.elgato.com/de/gaming/stream-deck)
 
 ## Macbook and VESA mount
 
