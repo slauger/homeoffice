@@ -34,7 +34,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Headset
 
 - [Jabra Evolve2 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve2-65)
-- [Jabra Evolve2 40](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve2-40) ([Thanks Microsoft](https://answers.microsoft.com/en-us/education_ms/forum/edu_msteams-edu_meet/stopping-the-microphone-from-automatically/7f4474fe-a7fc-4d38-9779-ee75350cd251))
+- [Jabra Evolve2 40](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve2-40) (Thanks Microsoft: [1](https://answers.microsoft.com/en-us/education_ms/forum/edu_msteams-edu_meet/stopping-the-microphone-from-automatically/7f4474fe-a7fc-4d38-9779-ee75350cd251), [2](https://answers.microsoft.com/en-us/msteams/forum/all/why-is-there-no-microphone-auto-adjust-setting-in/185e0082-6d3e-4aa7-bb65-f951a3ce7906))
 
 ## Headphones
 
