@@ -7,6 +7,10 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 - [Desktopia Pro](https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter)
 - [Noblechairs Hero](https://www.noblechairs.de/hero-series/gaming-stuhl-pu-leder)
 
+## Screen
+
+- [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
+
 ## Camera
 
 - [Logitech Streamcam](https://www.amazon.de/Logitech-Streamcam-Inhaltserstellung-Vertikales-Smart-autofokus/dp/B07W4DHNBF/)
