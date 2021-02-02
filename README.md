@@ -45,6 +45,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Audio
 
 - [FiiO E10K Olympus 2 Headphone amplifier](https://www.amazon.de/FiiO-E10K-Olympus-Digital-Kopfh%C3%B6rerverst%C3%A4rker-schwarz/dp/B00LP3AMC2/)
+- [FiiO K5pro](https://www.amazon.de/gp/product/B07WT7TYWY/)
 - [Pepperdecks DJOCLATE Mixer](https://www.conrad.de/de/p/pepperdecks-djoclate-2-kanal-dj-mixer-1396909.html)
 
 ## Lights
