@@ -73,6 +73,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [Apple Magic Keyboard](https://www.apple.com/de/shop/product/MRMH2D/A/magic-keyboard-mit-ziffernblock-deutsch-space-grau)
 - [Apple Magic Trackpad 2](https://www.apple.com/de/shop/product/MRMF2/magic-trackpad-2-space-grau)
+- [Logitech MX Master 3](https://www.logitech.com/de-de/products/mice/mx-master-3.html)
 
 ## Whiteboarding
 
