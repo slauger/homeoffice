@@ -14,6 +14,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Camera
 
 - [Sony A5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit)
+- [Dummy Battery for Sony A5100](https://www.amazon.de/gp/product/B07CBM9DST/)
 - [Logitech Streamcam](https://www.amazon.de/Logitech-Streamcam-Inhaltserstellung-Vertikales-Smart-autofokus/dp/B07W4DHNBF/)
 - [Noname Stativ](https://www.amazon.de/gp/product/B01M0VV7OR/)
 - [Kugelkopf](https://www.amazon.de/gp/product/B07PJ2NFX1/)
