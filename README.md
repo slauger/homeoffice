@@ -48,14 +48,19 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [FiiO E10K Olympus 2 Headphone amplifier](https://www.amazon.de/FiiO-E10K-Olympus-Digital-Kopfh%C3%B6rerverst%C3%A4rker-schwarz/dp/B00LP3AMC2/)
 - [FiiO K5pro](https://www.amazon.de/gp/product/B07WT7TYWY/)
-- [Pepperdecks DJOCLATE Mixer](https://www.conrad.de/de/p/pepperdecks-djoclate-2-kanal-dj-mixer-1396909.html)
+- ~~[Pepperdecks DJOCLATE Mixer](https://www.conrad.de/de/p/pepperdecks-djoclate-2-kanal-dj-mixer-1396909.html)~~ -> sometimes one audio channel does not work (results in mono output)
+- [Behringer Q802USB Xenyx Mixer](https://www.amazon.de/gp/product/B008O517IC/)
 
 ## Lights
 
 - [Elgato Key Light](https://www.elgato.com/de/gaming/key-light)
 - [IKEA Tertial](https://www.ikea.com/de/de/p/tertial-arbeitsleuchte-dunkelgrau-50355395/)
-- [Shelly Duo](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)
+- ~~[Shelly Duo](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)~~ -> replaced for testing with hue (is significantly brighter than PHILIPS Hue  Color Ambiance GU10)
 - [Shelly RGBW2](https://shelly.cloud/products/shelly-rgbw2-smart-home-automation-led-controller/)
+- [Philips Hue Bridge](https://www.amazon.de/Philips-Hue-zentrales-intelligentes-Steuerelement/dp/B016151IPI/)
+- [Philips Hue White and Color Ambiance GU10](https://www.amazon.de/Philips-Hue-Ambiance-Doppelpack-Bluetooth/dp/B07SHVQCTJ/)
+- [Philips Hue White & Color Ambiance E27](https://www.amazon.de/Hue-Doppelpack-2x806lm-Bluetooth-Energieklasse/dp/B07SS377J3/)
+- [Philips Hue Playbar](https://www.amazon.de/Philips-Hue-Doppelpack-Millionen-kompatibel/dp/B07FYDGD7R/)
 
 ## Green Screen
 
