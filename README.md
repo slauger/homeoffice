@@ -9,14 +9,14 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 ## Screen
 
-- [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
+- 2x [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
 
 ## Camera
 
 - [Sony A5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit)
 - [Dummy Battery for Sony A5100](https://www.amazon.de/gp/product/B07CBM9DST/)
 - [Logitech Streamcam](https://www.amazon.de/Logitech-Streamcam-Inhaltserstellung-Vertikales-Smart-autofokus/dp/B07W4DHNBF/)
-- [Noname Stativ](https://www.amazon.de/gp/product/B01M0VV7OR/)
+- ~~[Noname Stativ](https://www.amazon.de/gp/product/B01M0VV7OR/)~~ -> only for very lightweight webcams. was replaced with a second Elgato Master Mount
 - [Kugelkopf](https://www.amazon.de/gp/product/B07PJ2NFX1/)
 - [Elgato Master Mount](https://www.elgato.com/de/master-mount)
 - [Elgato Flex Arm](https://www.elgato.com/de/flex-arm)
@@ -55,7 +55,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [Elgato Key Light](https://www.elgato.com/de/gaming/key-light)
 - [IKEA Tertial](https://www.ikea.com/de/de/p/tertial-arbeitsleuchte-dunkelgrau-50355395/)
-- ~~[Shelly Duo](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)~~ -> replaced for testing with hue (is significantly brighter than PHILIPS Hue  Color Ambiance GU10)
+- ~~[Shelly Duo](https://shelly.cloud/products/shelly-duo-smart-home-automation-bulb/)~~ -> replaced for testing with hue (is significantly brighter than PHILIPS Hue Color Ambiance GU10)
 - [Shelly RGBW2](https://shelly.cloud/products/shelly-rgbw2-smart-home-automation-led-controller/)
 - [Philips Hue Bridge](https://www.amazon.de/Philips-Hue-zentrales-intelligentes-Steuerelement/dp/B016151IPI/)
 - [Philips Hue White and Color Ambiance GU10](https://www.amazon.de/Philips-Hue-Ambiance-Doppelpack-Bluetooth/dp/B07SHVQCTJ/)
@@ -73,7 +73,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Macbook and VESA mount
 
 - [Twelve South Curve Notebook Mount](https://www.amazon.de/gp/product/B07377XVNY/)
-- [HUANUO VESA mount](https://www.amazon.de/gp/product/B07T4HQS2N/)
+- ~~[HUANUO VESA mount](https://www.amazon.de/gp/product/B07T4HQS2N/)~~ -> removed, as it does not fit for the U2720Q by default.
 
 ## Keyboard and mouse
 
