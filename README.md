@@ -11,6 +11,10 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - 2x [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
 
+## Dock
+
+- [Razer Thunderbolt 4 Dock Chroma](https://www.amazon.de/Razer-Thunderbolt-Dock-Chroma-RGB-Beleuchtung-Schwarz/dp/B092ZPH6YR/)
+
 ## Camera
 
 - [Sony A5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit)
