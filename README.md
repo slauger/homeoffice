@@ -101,4 +101,4 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 - [Phrase-Lock USB-Key](https://www.ipoxo.com/)
 - [WiebeTech Mouse-Jiggler MJ-3](https://www.amazon.de/gp/product/B00MTZY7Y4/)
-- [Generic eFUTURA HDMI-Dummy-Stecker](https://www.amazon.de/gp/product/B08NTRNH3B/)
+- [Generic eFUTURA HDMI-Dummy-Plug](https://www.amazon.de/gp/product/B08NTRNH3B/)
