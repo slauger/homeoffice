@@ -92,3 +92,9 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 - [Elgato Control Center](https://www.elgato.com/de/gaming/downloads)
 - [Elgato Stream Deck](https://www.elgato.com/de/gaming/downloads)
 - [Elgato Wave Link](https://www.elgato.com/de/gaming/downloads)
+
+## Special Hardware
+
+- [Phrase-Lock USB-Key](https://www.ipoxo.com/)
+- [WiebeTech Mouse-Jiggler MJ-3](https://www.amazon.de/gp/product/B00MTZY7Y4/)
+- [Generic eFUTURA HDMI-Dummy-Stecker](https://www.amazon.de/gp/product/B08NTRNH3B/)
