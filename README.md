@@ -12,11 +12,6 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 - 2x [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
 - 1x [Dell Dis 27 P2723DE Professional WQHD IPS](https://www.amazon.de/gp/product/B09TXZX4FX/)
 
-## Stands
-
-- 1x [HUANUO Dual Halterung](https://www.amazon.de/gp/product/B0861284GB/) (for 2x U2720Q)
-- 1x [HUANO Single Halterung](https://www.amazon.de/gp/product/B07T4HQS2N/) (for 1x P2723DE)
-
 ## Dock
 
 - [Razer Thunderbolt 4 Dock Chroma](https://www.amazon.de/Razer-Thunderbolt-Dock-Chroma-RGB-Beleuchtung-Schwarz/dp/B092ZPH6YR/)
@@ -84,7 +79,10 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Macbook and VESA mount
 
 - [Twelve South Curve Notebook Mount](https://www.amazon.de/gp/product/B07377XVNY/)
-- ~~[HUANUO VESA mount](https://www.amazon.de/gp/product/B07T4HQS2N/)~~ -> removed, as it does not fit for the U2720Q by default.
+- [HUANUO Dual Halterung](https://www.amazon.de/gp/product/B0861284GB/) (for 2x U2720Q)
+- [HUANO Single Halterung](https://www.amazon.de/gp/product/B07T4HQS2N/) (for 1x P2723DE)
+- [Thingy Club verstellbarer Schreibtischaufsatz](https://www.amazon.de/gp/product/B07BFGLMHY/)
+- ~[Amazon Basics Montageplatte ](https://www.amazon.de/gp/product/B010QZD6I6/)~
 
 ## Keyboard and mouse
 
