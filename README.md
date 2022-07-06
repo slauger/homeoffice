@@ -10,6 +10,12 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Screen
 
 - 2x [Dell UltraSharp U2720Q 4K USB-C Monitor](https://www.dell.com/de-de/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-aves/monitore-und-monitorzubeh%C3%B6r)
+- 1x [Dell Dis 27 P2723DE Professional WQHD IPS](https://www.amazon.de/gp/product/B09TXZX4FX/)
+
+## Stands
+
+- 1x [HUANUO Dual Halterung](https://www.amazon.de/gp/product/B0861284GB/) (for 2x U2720Q)
+- 1x [HUANO Single Halterung](https://www.amazon.de/gp/product/B07T4HQS2N/) (for 1x P2723DE)
 
 ## Dock
 
@@ -17,7 +23,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 ## Camera
 
-- [Sony A5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit)
+- 2x [Sony A5100](https://www.sony.de/electronics/wechselobjektivkameras/ilce-5100-body-kit)
 - [Dummy Battery for Sony A5100](https://www.amazon.de/gp/product/B07CBM9DST/)
 - [Logitech Streamcam](https://www.amazon.de/Logitech-Streamcam-Inhaltserstellung-Vertikales-Smart-autofokus/dp/B07W4DHNBF/)
 - ~~[Noname Stativ](https://www.amazon.de/gp/product/B01M0VV7OR/)~~ -> only for very lightweight webcams. was replaced with a second Elgato Master Mount
@@ -28,6 +34,7 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 
 ## Capture Card
 
+- [Elgato HD60 X](https://www.amazon.de/Elgato-HD60-aufzeichnen-ultraniedriger-Programmen-Schwarz/dp/B09V1KJ3J4/)
 - [Elgato HD60S+](https://www.elgato.com/de/gaming/game-capture-hd60-s-plus)
 
 ## Microphone
@@ -45,13 +52,13 @@ A list of my hardware for my daily business in my homeoffice as IT Freelancer.
 ## Headphones
 
 - [Apple Airpods](https://www.apple.com/de/shop/product/MV7N2ZM/A/airpods-mit-ladecase)
-- [Bose QuietComfort 35 II](https://www.bose.de/de_de/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black)
+- ~[Bose QuietComfort 35 II](https://www.bose.de/de_de/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black)~
 - [Beyerdynamic DT 990 PRO](https://www.amazon.de/beyerdynamic-Over-Ear-Studiokopfh%C3%B6rer-schwarz-Bauweise-kabelgebunden/dp/B0011UB9CQ/)
 
 ## Audio
 
 - [FiiO E10K Olympus 2 Headphone amplifier](https://www.amazon.de/FiiO-E10K-Olympus-Digital-Kopfh%C3%B6rerverst%C3%A4rker-schwarz/dp/B00LP3AMC2/)
-- [FiiO K5pro](https://www.amazon.de/gp/product/B07WT7TYWY/)
+- ~[FiiO K5pro](https://www.amazon.de/gp/product/B07WT7TYWY/)~
 - ~~[Pepperdecks DJOCLATE Mixer](https://www.conrad.de/de/p/pepperdecks-djoclate-2-kanal-dj-mixer-1396909.html)~~ -> sometimes one audio channel does not work (results in mono output)
 - [Behringer Q802USB Xenyx Mixer](https://www.amazon.de/gp/product/B008O517IC/)
 
